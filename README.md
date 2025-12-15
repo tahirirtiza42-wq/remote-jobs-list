@@ -56,6 +56,7 @@ A list of remote job boards.
 | ❇️ | [Remote.jobs](https://remote.jobs/) | A remote jobs board. |🌟|
 | ❇️ | [RemoteBase](https://remotebase.io/) | A remote jobs board. |🌟|
 | ❇️ | [Remoteur](http://www.remoteur.com/) | A remote jobs board. |🌟|
+| ❇️ | [HRBS Global](https://hrbsglobal.com/) | A remote jobs board. |🌟|
 | ❇️ | [Working Nomads](https://www.workingnomads.co/jobs) | A remote jobs board. |🌟| [JSON](https://www.workingnomads.co/api/exposed_jobs/) |
 | ❇️ | [No Desk](https://nodesk.co/remote-jobs/) | A remote jobs board. |🌟|
 | ❇️ | [Telecommunity](http://remotejobs.telecommunity.net/) | A remote jobs board. |📱🌟|
